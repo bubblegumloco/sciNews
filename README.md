@@ -10,6 +10,7 @@ consider responsiveness with every section created because usually, I would work
 * Stacking tables instead of using divs to create new sections
 
 # Preview 
+![My Image](sciNewsRecording.gif)
 
 
 # Demo
