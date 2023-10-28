@@ -10,8 +10,9 @@ consider responsiveness with every section created because usually, I would work
 * Stacking tables instead of using divs to create new sections
 
 # Preview 
-![My Image](sciNewsRecording.gif)
-
+<p align="center">
+  <img src="sciNewsRecording.gif">
+</p>
 
 # Demo
 🕹 [sciNews Email Template](https://bubblegumloco.github.io/sciNews/)
